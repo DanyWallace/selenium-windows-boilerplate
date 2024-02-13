@@ -1,0 +1,10 @@
+{
+	"version": "118.0.5993.70",
+	"webdriver": {
+		"win64": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win64/chromedriver-win64.zip",
+		"linux64": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/linux64/chromedriver-linux64.zip",
+	},
+	"chromium": {
+		"win64": "https://github.com/Hibbiki/chromium-win64/releases/download/v118.0.5993.71-r1192594/mini_installer.sync.exe"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"version": "121.0.6167.85",
+	"webdriver": {
+		"win64": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/win64/chrome-win64.zip",
+		"linux64": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/linux64/chrome-linux64.zip",
+	},
+	"chromium": {
+		"win64": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/win64/chromedriver-win64.zip",
+		"linux64": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/linux64/chromedriver-linux64.zip",
+		"win64_gui_setup": "https://github.com/macchrome/winchrome/releases/download/v121.6167.161-M121.0.6167.161-r1233107-Win64/121.0.6167.161_ungoogled_mini_installer.exe",
+		"win64_gui_zip": "https://github.com/Hibbiki/chromium-win64/releases/download/v121.0.6167.161-r1233107/chrome.sync.7z"
+	}
+}

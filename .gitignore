@@ -1,0 +1,7 @@
+*.lnk
+.ruby-lsp
+LICENSE.chromedriver
+chromedriver
+chromedriver.exe
+data
+*.sublime-*

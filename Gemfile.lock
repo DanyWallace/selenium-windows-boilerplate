@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    connection_pool (2.4.1)
+    redis (5.0.7)
+      redis-client (>= 0.9.0)
+    redis-client (0.17.0)
+      connection_pool
+    rexml (3.2.6)
+    rubyzip (2.3.2)
+    selenium-webdriver (4.13.1)
+      rexml (~> 3.2, >= 3.2.5)
+      rubyzip (>= 1.2.2, < 3.0)
+      websocket (~> 1.0)
+    websocket (1.2.10)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  redis
+  selenium-webdriver
+
+BUNDLED WITH
+   2.4.10
