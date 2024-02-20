@@ -7,5 +7,6 @@
 	"chromium": {
 		"win64": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6261.6/win64/chrome-win64.zip",
 		"linux64": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6261.6/linux64/chrome-linux64.zip",
+		"alts": "markaduke: 122.0.6261.56 (1250580) • Sunday, 18 Feb 2024"
 	}
 }
